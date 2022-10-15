@@ -1,0 +1,14 @@
+{
+    "USERS": {
+        "TEXT": {
+            "HELLOWORLD": "Hei maailma",
+            "ENVIRONMENTIS": "Ympäristö on:",
+            "DEVELOPMENT": "Kehitys",
+            "PRODUCTION": "Tuotanto",
+            "STAGE": "Vaihe"
+        },
+        "BUTTON": {
+            "CHANGELANGUAGE": "Vaihda kieltä"
+        }
+    }
+}

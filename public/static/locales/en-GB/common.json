@@ -1,0 +1,14 @@
+{
+    "USERS": {
+        "TEXT": {
+            "HELLOWORLD": "Hello world",
+            "ENVIRONMENTIS": "Environment is:",
+            "DEVELOPMENT": "Development",
+            "PRODUCTION": "Production",
+            "STAGE": "Stage"
+        },
+        "BUTTON": {
+            "CHANGELANGUAGE": "Change language"
+        }
+    }
+}
